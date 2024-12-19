@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "855819c4e6d4d9e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9128bd203c0e84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a42babac4b872d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          },
+          {
+            "id": "f4801705449c24b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言教學與技術文件/好用工具/美麗的終端系統資訊顯示-neofetch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "美麗的終端系統資訊顯示-neofetch"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43bd34400d72f253",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca67f9ecc66aec40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff5d5efb144af78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "5b14ef8e9d4ff558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#程式語言教學與技術文件",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "d7e1c7c123efb3f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6684d6446f4e99a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c61104a1506c83f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "913a36e4fecda305",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "cdc3b9898df618af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "0929ead238d74cdf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "02c047635f28548b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "個人/密碼相關.md"
+              },
+              "icon": "lucide-list",
+              "title": "密碼相關 的大綱"
+            }
+          },
+          {
+            "id": "5610f45347e83e83",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f4801705449c24b1",
+  "lastOpenFiles": [
+    "SCT Note/帳號密碼.md",
+    "程式語言教學與技術文件/好用工具/美麗的終端系統資訊顯示-neofetch.md",
+    "個人/密碼相關.md",
+    "程式語言教學與技術文件/好用工具/終端機變漂亮 — oh-my-posh.md",
+    "程式語言教學與技術文件/Google派系/Golang/Golang進階技巧/1. Gin -- Golang的伺服器框架.md",
+    "程式語言教學與技術文件/Google派系/Golang/Golang進階技巧/2. 後端文件之寶-Swagger在Golang的應用.md",
+    "程式語言教學與技術文件/好用工具/Linux_Mac 的漂亮終端機- oh my zsh.md",
+    "程式語言教學與技術文件/Microsoft派系/CSharp/CSharp 中的抽象方法、覆寫與介面.md",
+    "程式語言教學與技術文件/Google派系/Flutter/Dart基本概念/如何建立一個Dart Console專案.md",
+    "程式語言教學與技術文件/Google派系/Golang/Golang 基本學識/9. Golang中的Go!(多執行緒).md",
+    "SCT Note/Flutter Frontend/4K大瞄點介面疑慮.md",
+    "未命名.canvas",
+    "個人/教會見證稿.md",
+    "SCT Note/4K Sendbox/4K瞄點Json處理概要.md",
+    "SCT Note/Go Backend/大瞄點的陣列看法.md",
+    "SCT Note/Flutter Frontend/視屏原分辨.md",
+    "SCT Note/Flutter Frontend/4K大瞄點介面設計思維.md",
+    "SCT Note/EDID/EDID概論.md",
+    "SCT Note/記事本/WebIC權限.md",
+    "SCT Note/記事本/Terminal.md",
+    "SCT Note/記事本/RowData2.md",
+    "SCT Note/記事本/RowData.md",
+    "SCT Note/記事本/Node.js小記.md",
+    "SCT Note/記事本/nanopb(FP)問題.md",
+    "SCT Note/記事本/Mapping Json.md",
+    "SCT Note/記事本/Mail for Manny 中文版.md",
+    "SCT Note/記事本/json example.md",
+    "暫存(Notion移動完要處理)",
+    "程式語言教學與技術文件/Google派系/Flutter/Flutter 基本教學",
+    "程式語言教學與技術文件/Google派系/Flutter/Dart基本概念",
+    "程式語言教學與技術文件/Google派系/Golang/Golang進階技巧",
+    "程式語言教學與技術文件/Google派系/Golang/Golang 基本學識",
+    "程式語言教學與技術文件/Google派系/Golang的一些特別概念與技巧",
+    "程式語言教學與技術文件/Google派系/Flutter",
+    "程式語言教學與技術文件/Google派系/Golang",
+    "程式語言教學與技術文件/Microsoft派系/CSharp",
+    "程式語言教學與技術文件/Google派系",
+    "_resources/vscode_go_region5.png",
+    "_resources/圖片1.png",
+    "_resources/vscode_go_region6.png",
+    "_resources/vscode_go_region4.png",
+    "_resources/vscode_go_region3.png",
+    "_resources/neofetch5.png",
+    "_resources/vscode_go_region2.png",
+    "_resources/vscode_go_region1.png",
+    "_resources/neofetch4.png",
+    "_resources/neofetch3.png"
+  ]
+}
