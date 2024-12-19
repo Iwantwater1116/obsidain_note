@@ -18,19 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "關聯圖檢視"
             }
-          },
-          {
-            "id": "f4801705449c24b1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ff5d5efb144af78",
+  "active": "04a42babac4b872d",
   "lastOpenFiles": [
+    "私人單機(不同步上傳)/個人/日本之旅.md",
+    "私人單機(不同步上傳)/個人/面試準備筆記.md",
     "私人單機(不同步上傳)/SCT Note/帳號密碼.md",
     "私人單機(不同步上傳)/密碼相關.md",
     "程式語言教學與技術文件/好用工具/美麗的終端系統資訊顯示-neofetch.md",
@@ -207,8 +198,6 @@
     "SCT Note/記事本/RowData2.md",
     "SCT Note/記事本/RowData.md",
     "SCT Note/記事本/Node.js小記.md",
-    "SCT Note/記事本/nanopb(FP)問題.md",
-    "SCT Note/記事本/Mapping Json.md",
     "私人單機(不同步上傳)/暫存(Notion移動完要處理)",
     "程式語言教學與技術文件/Google派系/Flutter/Flutter 基本教學",
     "程式語言教學與技術文件/Google派系/Flutter/Dart基本概念",
