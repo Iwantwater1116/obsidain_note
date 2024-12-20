@@ -18,23 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "關聯圖檢視"
             }
-          },
-          {
-            "id": "3386b145b34d0242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言教學與技術文件/好用工具/專案管理工具.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "專案管理工具"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3386b145b34d0242",
+  "active": "04a42babac4b872d",
   "lastOpenFiles": [
+    "程式語言教學與技術文件/好用工具/專案管理工具.md",
     "私人單機(不同步上傳)/SCT Note/記事本/Terminal.md",
     "程式語言教學與技術文件/Google派系/Golang/Golang 基本學識/24. http GET POST.md",
     "程式語言教學與技術文件/Google派系/Golang/Golang進階技巧/1. Gin -- Golang的伺服器框架.md",
@@ -212,7 +198,6 @@
     "SCT Note/EDID/EDID概論.md",
     "SCT Note/記事本/WebIC權限.md",
     "SCT Note/記事本/Terminal.md",
-    "SCT Note/記事本/RowData2.md",
     "私人單機(不同步上傳)/暫存(Notion移動完要處理)",
     "程式語言教學與技術文件/Google派系/Flutter/Flutter 基本教學",
     "程式語言教學與技術文件/Google派系/Flutter/Dart基本概念",
